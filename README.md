@@ -1,2 +1,1 @@
-You have file called (Gameplay) which contain the actual game.
-Try and enjoy!
+The Gameplay file contains the full game. Feel free to download and enjoy!
